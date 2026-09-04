@@ -1,5 +1,9 @@
 # Introduction To Computers
 
+## Student Information
+- **Name:** Izyan Ali
+- **Roll-Number:** 26k-3084
+
 ## Project Description
 
 This project provides an overview of **computers**, their different types, and their development throughout history. The purpose of this project is to understand basic **computer** concepts and learn how to use Git and GitHub for managing a project.
@@ -68,6 +72,12 @@ Early electronic computers used _vacuum tubes_ and _were large_ and _expensive_.
 
 Today, **computers** are _smaller_, _faster_, and _more powerful_ than earlier generations and are used in almost every field.
 
+## Link
+[You can learn more about computers here:](https://en.wikipedia.org/wiki/Computer).
+
+
+
+  
 
 
 
