@@ -41,6 +41,28 @@ A **computer** is an electronic device that receives _data_ as input, processes 
 **Computers** have become an essential part of modern life.
 _They can perform tasks quickly and accurately when given appropriate instructions._
 
+## Types Of Computers
+
+**Computers** can be classified into different types based on their size, processing power, and purpose.
+- Supercomputers
+- Mainframe Computers
+- Desktop Computers
+- Laptop Computers
+- Smartphones
+
+## Comparison Of Computer Types
+
+| Type of Computer | Main Characteristic | Example Use |
+|---|---|---|
+| Supercomputer | Extremely high processing power | Scientific research |
+| Mainframe | Handles large amounts of data | Banking and business |
+| Desktop | Designed for stationary use | Education and office work |
+| Laptop | Portable and versatile | Study and professional work |
+| Smartphone | Small and portable computing device | Communication and applications |
+
+
+
+
 
 
 
