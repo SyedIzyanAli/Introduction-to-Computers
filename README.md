@@ -28,7 +28,7 @@ The project was completed using the following workflow:
 - [x] Create the README.md file
 - [x] Create a Student Branch
 - [x] Add project content
-- [ ] Make up at least three meaningful commits
+- [x] Make up at least three meaningful commits
 - [ ] Create a Pull Request
 - [ ] Review and merge the Pull Request
 
@@ -73,8 +73,19 @@ Early electronic computers used _vacuum tubes_ and _were large_ and _expensive_.
 Today, **computers** are _smaller_, _faster_, and _more powerful_ than earlier generations and are used in almost every field.
 
 ## Link
-[You can learn more about computers here:](https://en.wikipedia.org/wiki/Computer).
+[You can learn more about computers here.](https://en.wikipedia.org/wiki/Computer).
 
+## Code 
+
+```cpp
+#include <iostream>
+using namespace std;
+int main(){
+
+cout<<"Introduction To Computers.";
+return 0;
+}
+```
 
 
   
