@@ -29,8 +29,8 @@ The project was completed using the following workflow:
 - [x] Create a Student Branch
 - [x] Add project content
 - [x] Make up at least three meaningful commits
-- [ ] Create a Pull Request
-- [ ] Review and merge the Pull Request
+- [x] Create a Pull Request
+- [x] Review and merge the Pull Request
 
 ## Tools Used
 The following tools were used to complete this project:
