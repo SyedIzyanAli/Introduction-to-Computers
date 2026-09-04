@@ -78,6 +78,7 @@ Today, **computers** are _smaller_, _faster_, and _more powerful_ than earlier g
 ## Code 
 
 ```cpp
+// it is an example code
 #include <iostream>
 using namespace std;
 int main(){
@@ -88,7 +89,7 @@ return 0;
 ```
 ## Image 
 
-![Computers](https://github.com/SyedIzyanAli/Introduction-to-Computers/blob/4a9acf6bdd19b843502b1c92da567da3f4d3ccd2/Project%20Image.jpg)
+![Computers.](https://github.com/SyedIzyanAli/Introduction-to-Computers/blob/4a9acf6bdd19b843502b1c92da567da3f4d3ccd2/Project%20Image.jpg)
 
   
 
