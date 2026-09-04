@@ -60,6 +60,15 @@ _They can perform tasks quickly and accurately when given appropriate instructio
 | Laptop | Portable and versatile | Study and professional work |
 | Smartphone | Small and portable computing device | Communication and applications |
 
+## History Of Computers
+
+The history of **computers** began with _early mechanical calculating devices_. Over time, **computers** developed from _simple mechanical machines_ into _powerful electronic systems_.
+
+Early electronic computers used _vacuum tubes_ and _were large_ and _expensive_. The invention of the _transistor_ made **computers** _smaller_ and _more reliable_. Later, _integrated circuits_ and _microprocessors_ further improved **computer technology**.
+
+Today, **computers** are _smaller_, _faster_, and _more powerful_ than earlier generations and are used in almost every field.
+
+
 
 
 
