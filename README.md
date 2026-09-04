@@ -1,2 +1,47 @@
-# Introduction-to-Computers
-Git and GitHub practical task on Introduction to Computers for FAST NUCES.
+# Introduction To Computers
+
+## Project Description
+
+This project provides an overview of **computers**, their different types, and their development throughout history. The purpose of this project is to understand basic **computer** concepts and learn how to use Git and GitHub for managing a project.
+
+## Project Workflow
+
+The project was completed using the following workflow:
+
+1. Create the GitHub repository.
+2. Create a separate branch using the student's name or roll number.
+3. Add and modify the project content.
+4. Make at least three meaningful commits.
+5. Push the branch to GitHub.
+6. Create a Pull Request from the branch to the main branch.
+7. Review the changes.
+8. Merge the Pull Request into the main branch.
+9. Verify the completed project in the main branch.
+
+## Project Tasks
+
+- [x] Create the GitHub Repository 
+- [x] Create the README.md file
+- [x] Create a Student Branch
+- [x] Add project content
+- [ ] Make up at least three meaningful commits
+- [ ] Create a Pull Request
+- [ ] Review and merge the Pull Request
+
+## Tools Used
+The following tools were used to complete this project:
+- Git
+- GitHub
+- Markdown
+- Text Editor
+
+## Introduction To Computers
+
+A **computer** is an electronic device that receives _data_ as input, processes it according to instructions, stores information, and produces useful output. **Computers** are used in many areas, including education, business, communication, science, healthcare, and entertainment.
+**Computers** have become an essential part of modern life.
+_They can perform tasks quickly and accurately when given appropriate instructions._
+
+
+
+
+
