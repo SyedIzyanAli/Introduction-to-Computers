@@ -86,7 +86,9 @@ cout<<"Introduction To Computers.";
 return 0;
 }
 ```
+## Image 
 
+![Computers](https://github.com/SyedIzyanAli/Introduction-to-Computers/blob/4a9acf6bdd19b843502b1c92da567da3f4d3ccd2/Project%20Image.jpg)
 
   
 
